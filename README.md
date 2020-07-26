@@ -1,4 +1,4 @@
-# test-improvisor-internationalize version beta 10.2.24
+# test-improvisor-internationalize version beta 10.2.25 26/07/2020
 Testing language Improvisor
 
 Translation into French is in progress, the file improvisor.jar will be updated with each new commit.
