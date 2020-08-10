@@ -1,11 +1,11 @@
-# test-improvisor-internationalize version beta 10.2.27 10/08/2020
+# test-improvisor-internationalize version beta 10.2.28 10/08/2020
 Testing language Improvisor
 
-Translation into French is in progress, the file improvisor.jar will be updated with each new commit.
+Translation into French and Spanish is in progress, the file improvisor.jar will be updated with each new commit.
 
 Download file improvisor.jar
 
-In C:\Program\Impro-Visor10.2\ rename improvisor.jar to improvisor_.jar and paste the download file improvisor.jar
+In %ProgramFiles%\Impro-Visor10.2\ rename improvisor.jar to improvisor_.jar and paste the download file improvisor.jar
 
 You can change language with file impro-visor.vmoptions
 * edit lines for French
