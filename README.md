@@ -1,4 +1,4 @@
-# test-improvisor-internationalize version beta 10.2.28 10/08/2020
+# test-improvisor-internationalize version beta 10.2.32 16/08/2020
 Testing language Improvisor
 
 Translation into French and Spanish is in progress, the file improvisor.jar will be updated with each new commit.
@@ -17,6 +17,6 @@ You can change language with file impro-visor.vmoptions
 * edit lines for Spanish
     * -Duser.language=es
     * -Duser.country=ES
-* Comment lines for system language by default is English USA
+* Comment lines for system language by default
 
 if you wish to help, correct or translate into another language, contact me
