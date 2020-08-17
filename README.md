@@ -18,4 +18,3 @@ You can change language with file impro-visor.vmoptions
     * -Duser.language=es
     * -Duser.country=ES
 * Comment lines for system language by default
-
